@@ -21,7 +21,8 @@ share an environment file.
    For conda versions prior to 4.6, run:
 
       * Windows: ``activate`` or ``deactivate``
-      * Linux and macOS: ``source activate`` or ``source deactivate``
+      * Linux and macOS: ``source activate`` or ``source deactivate`` 
+      *``conda activate`` or ``conda deactivate``
 
 Creating an environment with commands
 =====================================
